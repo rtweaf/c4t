@@ -2,7 +2,7 @@
 the game teaching about healthy cat nutrition
 
 ## todo
-* [ ] control
+* [+] control
 * [ ] food movement
 * [ ] collision, score, levels etc.
 * [ ] pixel arts
